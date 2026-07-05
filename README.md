@@ -17,7 +17,7 @@ Peer-reviewed, alignment-free gene-prioritization methods I developed — each w
 |---|---|---|
 | Moment of inertia tensor | [moment-of-inertia-tensor-gene-prioritization](https://github.com/arjunbioinfo/moment-of-inertia-tensor-gene-prioritization) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21157912.svg)](https://doi.org/10.5281/zenodo.21157912) |
 | Chaos game + 2D MF-X-DFA | [cgr-mfxdfa-gene-prioritization](https://github.com/arjunbioinfo/cgr-mfxdfa-gene-prioritization) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21167708.svg)](https://doi.org/10.5281/zenodo.21167708) |
-| rt-qPCR Efficiency-correction | [Efficiency-corrected-rt-qpcr](https://github.com/arjunbioinfo/cgr-mfxdfa-gene-prioritization) |  |
+| rt-qPCR Efficiency-correction | [Efficiency-corrected-rt-qpcr](https://github.com/arjunbioinfo/efficiency-corrected-rt-qpcr) |  |
 
 *More repositories on the way.* 🚧
 

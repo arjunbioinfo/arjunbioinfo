@@ -19,7 +19,7 @@ Peer-reviewed, alignment-free gene-prioritization methods I developed — each w
 | Chaos game + 2D MF-X-DFA | [cgr-mfxdfa-gene-prioritization](https://github.com/arjunbioinfo/cgr-mfxdfa-gene-prioritization) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21167708.svg)](https://doi.org/10.5281/zenodo.21167708) |
 | qPCR Efficiency-correction | [Efficiency-corrected-rt-qpcr](https://github.com/arjunbioinfo/efficiency-corrected-rt-qpcr) |  |
 | Computational modeling of mRNA cytoplasmic levels | [Computational modeling of mRNA cytoplasmic levels](https://github.com/arjunbioinfo/Computational-modeling-of-mRNA-cytoplasmic-levels) | Currently Private |
-
+| Single-cell RNA-seq pipeline | [A reproducible, config-driven scRNA-seq pipeline](https://github.com/arjunbioinfo/scRNA-seq-reproducible) |  |
 
 
 *More repositories on the way.* 🚧

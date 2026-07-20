@@ -20,7 +20,7 @@ Peer-reviewed, alignment-free gene-prioritization methods I developed — each w
 | qPCR Efficiency-correction | [Efficiency-corrected-rt-qpcr](https://github.com/arjunbioinfo/efficiency-corrected-rt-qpcr) |  |
 | Computational modeling of mRNA cytoplasmic levels | [Computational modeling of mRNA cytoplasmic levels](https://github.com/arjunbioinfo/Computational-modeling-of-mRNA-cytoplasmic-levels) | Currently Private |
 | Single-cell RNA-seq pipeline | [A reproducible, config-driven scRNA-seq pipeline](https://github.com/arjunbioinfo/scRNA-seq-reproducible) |  |
-| extrachromosomal circular DNA (ecDNA) detection | [A reproducible wrapper around nf-core/circdna v1.1.0 for detecting extrachromosomal circular DNA (ecDNA) from whole-genome sequencing (WGS)](https://github.com/arjunbioinfo/ecDNA-WGS-circdna) |  |
+| extrachromosomal circular DNA (ecDNA) detection | [A reproducible wrapper for detecting extrachromosomal circular DNA (ecDNA) from whole-genome sequencing (WGS)](https://github.com/arjunbioinfo/ecDNA-WGS-circdna) |  |
 
 
 *More repositories on the way.* 🚧

@@ -6,6 +6,7 @@
   <a href="https://scholar.google.com/citations?user=NpLUj68AAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/Google%20Scholar-4285F4?logo=googlescholar&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/mallikarjun-thippana/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://www.researchgate.net/profile/Mallikarjuna-Thippana"><img alt="ResearchGate" src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=researchgate&logoColor=white"></a>
+  <a href="https://orcid.org/0000-0001-8485-8626"><img alt="ORCID" src="https://img.shields.io/badge/ORCID-0000--0001--8485--8626-A6CE39?logo=orcid&logoColor=white"></a>
   <a href="https://arjunbioinfo.github.io/CV_Thippana_2026.pdf"><img alt="CV" src="https://img.shields.io/badge/CV-PDF-555?logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 

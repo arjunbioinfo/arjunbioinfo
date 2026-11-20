@@ -12,7 +12,7 @@
 
 Postdoctoral researcher in the Department of Oncology-Pathology at **Karolinska Institutet**, Stockholm. I study how distal regulatory elements control cancer genes such as **MYC**, integrating GRO-seq, ATAC-seq, CUT&RUN, 4C-seq and RNA-seq, and I analyse single-nucleus RNA-seq cohorts and patient-tumour whole genomes for focal amplifications and ecDNA.
 
-- 🔬 **Now:** MYC/CTCF enhancer regulation (co-author, under revision at *Nucleic Acids Research*) · a 17-donor clinical snRNA-seq cohort · cancer WGS / ecDNA
+- 🔬 **Now:** MYC/CTCF enhancer regulation (co-author, under revision at *Nucleic Acids Research*) · a clinical snRNA-seq cohort · cancer WGS / ecDNA
 - 🧮 **PhD work:** two original, peer-reviewed gene-prioritisation algorithms, released here as tested, citable software
 - 📄 **Output:** 8 peer-reviewed articles + 3 preprints. See the [full list](https://arjunbioinfo.github.io/#publications)
 - 🤝 **Open to:** computational biology / bioinformatics scientist roles and collaborations
@@ -55,4 +55,3 @@ Most code is MIT-licensed, and the methods and pipelines are tested with GitHub 
 
 **Assays:** GRO-seq · ATAC-seq · CUT&RUN · ChIP-seq · 4C-seq · RNA-seq · sc/snRNA-seq · WGS
 
-<sub> Stockholm, Sweden</sub>

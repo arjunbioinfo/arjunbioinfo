@@ -55,4 +55,4 @@ Most code is MIT-licensed, and the methods and pipelines are tested with GitHub 
 
 **Assays:** GRO-seq · ATAC-seq · CUT&RUN · ChIP-seq · 4C-seq · RNA-seq · sc/snRNA-seq · WGS
 
-<sub>📫 arjun.ins@gmail.com · Stockholm, Sweden</sub>
+<sub> Stockholm, Sweden</sub>

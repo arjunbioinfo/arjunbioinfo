@@ -29,10 +29,12 @@ Postdoctoral researcher in the Department of Oncology-Pathology at **Karolinska 
 | Project | What it does | Stack |
 |---|---|---|
 | [ecDNA-WGS-circdna](https://github.com/arjunbioinfo/ecDNA-WGS-circdna) | Version-pinned, config-driven wrapper around nf-core/circdna for detecting ecDNA from whole-genome sequencing (AmpliconArchitect + Circle-Map branches) | Nextflow · nf-core · AmpliconSuite |
+| [ampliconsuite-2026-reproducibility](https://github.com/arjunbioinfo/ampliconsuite-2026-reproducibility) | Independent reproduction of the AmpliconClassifier FISH validation ([Luebeck et al., *Nature Methods* 2026](https://doi.org/10.1038/s41592-026-03264-x)): Figure 1d–e rebuilt from deposited data across 175 gene probes in 72 cell lines | Python · ecDNA |
+| [enhancer-gene-atac-rna-ctcf](https://github.com/arjunbioinfo/enhancer-gene-atac-rna-ctcf) | Snakemake workflow integrating ENCODE ATAC-seq, RNA-seq and CTCF ChIP-seq to link distal enhancers to genes and test CTCF occupancy with peak-level statistics | Snakemake · Python · ENCODE |
 | [scRNA-seq-reproducible](https://github.com/arjunbioinfo/scRNA-seq-reproducible) | Deterministic Scanpy/scverse pipeline from a GEO accession or 10x file to QC, clusters and marker genes | Python · Scanpy · scverse |
 | [efficiency-corrected-rt-qpcr](https://github.com/arjunbioinfo/efficiency-corrected-rt-qpcr) | Pfaffl-style amplification-efficiency correction for RT-qPCR, with a [live report](https://arjunbioinfo.github.io/efficiency-corrected-rt-qpcr/) | R · Excel |
 
-Code is MIT-licensed; the methods and pipelines are tested with GitHub Actions.
+Most code is MIT-licensed, and the methods and pipelines are tested with GitHub Actions.
 
 ### 🛠️ Toolkit
 
